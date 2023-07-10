@@ -1,5 +1,5 @@
 # phoneValidation
-<b>phoneValidation</b>PhoneValidation allows us to easily verify the existence of a phone number. If such a number does not exist, it will definitely tell you about it, and if it does exist, it will tell you the available information for that number.
+<b>phoneValidation</b> allows us to easily verify the existence of a phone number. If such a number does not exist, it will definitely tell you about it, and if it does exist, it will tell you the available information for that number.
 
 <hr>
 
